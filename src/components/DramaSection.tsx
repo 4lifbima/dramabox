@@ -1,4 +1,5 @@
-import { useRef, ReactNode } from 'react';
+import { useRef } from 'react';
+import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { CaretLeft, CaretRight, ArrowRight } from '@phosphor-icons/react';
 import type { Drama } from '../types';

@@ -4,7 +4,6 @@ import {
     House,
     Crown,
     TrendUp,
-    Clock,
     MagnifyingGlass,
     List,
     X,
