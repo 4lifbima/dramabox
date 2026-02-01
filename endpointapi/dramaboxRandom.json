@@ -1,0 +1,1010 @@
+{
+  "status": true,
+  "creator": "Andre Api",
+  "data": [
+    {
+      "bookId": "42000004770",
+      "bookName": "Kehidupan Seorang Kickboxer",
+      "bookCover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004770/42000004770.jpg?t=1769148689815",
+      "introduction": "Paul Harkan, mantan juara kickboxer tak terkalahkan, kalah karena diracun. Seusai laga, ia tak sengaja menyebabkan putrinya tewas saat konflik dengan lawan. Terpisah dari keluarga dan dikucilkan, Paul terpuruk sebagai kurir. Harapan muncul lewat Vinny Jenar dan putrinya, Ririn (8), yang usia dan golongan darahnya sama dengan anak Paul. Namun Ririn berdarah rhesus negatif langka, membuatnya diburu geng Ben Tirta, sementara Vinny ditekan Ryan Yuno.",
+      "playCount": "1.4M",
+      "tags": [
+        "Balas Dendam",
+        "Keadilan",
+        "Pembalikan Identitas",
+        "Serangan Balik",
+        "Anak Hilang",
+        "Penebusan"
+      ],
+      "tagV3s": [
+        {
+          "tagId": 1337,
+          "tagName": "Balas Dendam",
+          "tagEnName": "Revenge"
+        },
+        {
+          "tagId": 10037,
+          "tagName": "Keadilan",
+          "tagEnName": "Justice Served"
+        },
+        {
+          "tagId": 1338,
+          "tagName": "Pembalikan Identitas",
+          "tagEnName": "Hidden Identity"
+        },
+        {
+          "tagId": 1340,
+          "tagName": "Serangan Balik",
+          "tagEnName": "Counterattack"
+        },
+        {
+          "tagId": 1476,
+          "tagName": "Anak Hilang",
+          "tagEnName": "Lost Child"
+        },
+        {
+          "tagId": 1478,
+          "tagName": "Penebusan",
+          "tagEnName": "Redemption"
+        }
+      ],
+      "markNamesConnectKey": ", ",
+      "inLibraryCount": 66122,
+      "chapterId": "700309764",
+      "chapterImg": "https://hwztvideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.mp4.jpg",
+      "chapterIndex": 0,
+      "totalChapterNum": 63,
+      "nextChapterId": "700309765",
+      "videoPath": "https://hwztakavideo.dramaboxdb.com/b0e7c507a1e1108ea6c0b23409323faf/6980d810/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.720p.narrowv3.mp4",
+      "cdnList": [
+        {
+          "cdnDomain": "hwztakavideo.dramaboxdb.com",
+          "isDefault": 1,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/b10a5a8616d3c12cc539ac7c01940fba/6980d810/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.1080p.wz.g264.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/b0e7c507a1e1108ea6c0b23409323faf/6980d810/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.720p.narrowv3.mp4",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/50eb910cee687e18d6036d5302f6c1f1/6980d810/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.540p.narrowv2.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/0e25ea8f63eeefd0ad917117af31663d/6980d810/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.360p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/73fedc96a9c7ef953e93e1e07144c3fe/6980d810/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.144p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        },
+        {
+          "cdnDomain": "hwztvideo.dramaboxdb.com",
+          "isDefault": 0,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.1080p.wz.g264.mp4?Expires=1770048000&Signature=ViCRbv3R7V0-gCeIaaSD4OPNhWIlfHsk-hFW4vhR2IzjAohW2vqZpAwFhPAHB0Oy1SAsdlSXRjmrEDee9rJk7G9GZpVU4ArBmnSvENr3jArQI-LCVFe-bwMFjOHd1813bl5YPkpJzB6GXXyKslcQTSTNjuUjZil1o6q0iqh3w2VyRu2GPKyT9i9nIMwkJrh5qALU4PPhzLV-hPqDqQsOjE2i8~u1E7BBy8VDF5xyhJ5Fveo3NhO6h4P6fGYQXAf0oWyulaarUG-3hoFTI6wLLxsjDwxGMNTpYrFICePaZX36tl4l~SM5WEbEHhuuo0DPy1IrLuZW4AgeuVFh2kz9yQ__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.720p.narrowv3.mp4?Expires=1770048000&Signature=sZZKVmoqtpTNFLW4uYAnI3jVucnbBt-OHl6rrYFbrS17ws75ZyjkGvjWlKKvnUwrwYfwxrI1OpwNjVp7XSZovuwlqUPOkJeU1yg1tMiQCK4i7HwwAZoJONOX8WEQlVTpmaJXhS4XuTimC4D-~uUNS6XKcyzF~6vJNQ121Yyj1rOooCXs6UFrpZ6GDgyZvy1sQvILp9BzfRkhqfoPbsrbs6pnGPedYmq5E4mkx5XgeBV2VV4aLNqlOWYBPdMiJm4LZ9DIcDTpmVy4T5IMIHTGQpizZbmrzMlpitklbtXNCaB2gXRIKF2tMGVoF3SDBVPhjL2KdwTjaWYgoph-0rMW0Q__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.540p.narrowv2.mp4?Expires=1770048000&Signature=FKFM6jqumm28BGxXgzBCzw4KLXK6kdywcJbOCNKtB4~IzzBV01oGn2RaLcNRfPoc2YbrGcyb0kNWrLhhEZnxbV9mcYoSYrQZldxccb7LPQje12rKeCJNj21SQpzdrrLbtMlTuMKXYPJv9shlqmv9d5bZQ1EDuYsS5r1645MNhZirXxY8ZredeTyjani8ccocBrnTVJMiMDagWmecU~Vpcp0UAhSLgsjIAJ6msdNusJ5y8nvFJKvDlgrtztqa1KCEuXFLxoJoA5pzsbMjcB-J76TbZ8qg8veueP9uu0c94K6~SYCftg~0MWDRLmz1xh6jAOUhwrjo4zHLCW8D6h-k3Q__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.360p.mp4?Expires=1770048000&Signature=bCLnadAc1X1wfkC909TgDT2b4PEQUnLl11Svhhbe2JFzD6lg4V-PCj81nwAZ9t2TT584NlOtUoVcl0-cVj4t45oddNrWfCUyiscHltlEUA~29wIlcKViw-8BLS2f6GKtmZTBamj15~d2fM6QiUogyprFDWH6m8N3Wu1r27Pd1c4YLCcLvcwKwKWjmuLOtIINZetGMS5qx2PkhA3dEmr2PwNq3ZrL~Y-oz9M9~8Q5gJASS--yoI1D-AxiH7N0DFWA~iWAe1O9mhyqA7mdZrpfHP9YjgaTn37yKB31RjC1od6GK2HQj0x77xGwaOAMLf3LtynlLboaQHK-nvqhYEgyfg__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764.144p.mp4?Expires=1770048000&Signature=lNrH7FnS3ap-mpQ~9JVpJ-kMzMepZegR6qhSfQNEw9i3uD4EgsatRvLQ9t1AXm81grR3i~0rJ59GNuogcGsyZBwJHDI~oqvgA1wUOsnrLg0MDYKRUlz--WoVOcCt2XxzMe8bi~4dQPvfpP7RQxcMjxzUw2fRpDpKAQLx28ZOOOjA0WhtK9QeYUr-DYWWROnT9QwIiZsltIrZfw-F4EAsNpsIbZ6hP1p1hXpD6z8yx5hYOuMRLdKL8KzG7g9UG6Wg~NVradG~uwLrCw7O6WEcnF6BELXGJAQUjiO3TmFwRkE~KffBXPk9UXV6SCEVDUUidVmBb4QvgquN-xm2QuzZPQ__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        }
+      ],
+      "bookSource": {
+        "sceneId": "ovs_vd_foru_rec",
+        "expId": "bigdata_rec",
+        "strategyId": "gzphlpl6",
+        "strategyName": "EXP_3",
+        "log_id": "55b8ee2aa2155b1d075db2579c8b71b9"
+      },
+      "isEntry": 0,
+      "isBottomBook": 0,
+      "bookHints": [
+        {
+          "id": 2,
+          "hintType": "新剧",
+          "hintName": "Terbaru",
+          "bgColor": "#4C4C4C",
+          "transparency": 45,
+          "showOrder": 3,
+          "showTime": 15
+        }
+      ],
+      "corner": {
+        "cornerType": 1,
+        "name": "Terbaru",
+        "color": "#8773DF"
+      },
+      "bookStatus": 1,
+      "algorithmRecomDot": "{\"log_id\":\"55b8ee2aa2155b1d075db2579c8b71b9\",\"ret_time\":\"1769965203948\",\"scene_id\":\"ovs_vd_foru_rec\",\"rec_id\":\"bigdata_rec\"}",
+      "shareVo": {
+        "description": "Aku sedang menonton Kehidupan Seorang Kickboxer di DramaBox, sangat seru, ayo tonton bersama!",
+        "link": "https://sharet.dramabox.com/play?bid=42000004770&cid=__CID__&cindex=__CINDEX__&uid=e959933a0fd4e44587908cf2f4862d055c74fe20e30d867a7eb44003432e4e4d&lan=in&st=__ST__&layer=962&group=2486",
+        "shareId": "xWmFx6QnYG",
+        "dramaShareLink": "https://sharet.dramabox.com/gifted/film?uid=ef3a409c18856914689d011f91b9a74c20fca75665775e7111542479d2dcb0d8&lan=in&st=__ST__&bid=42000004770&sid=xWmFx6QnYG",
+        "shareDescription": "Tonton gratis Kehidupan Seorang Kickboxer — hadiah dariku untukmu! Klaim dan tonton di DramaBox dalam 72 jam!",
+        "shareApps": [
+          "3",
+          "5",
+          "1",
+          "6",
+          "4",
+          "98",
+          "99"
+        ]
+      },
+      "payChapterNum": 8,
+      "needTriggerWarnTip": false,
+      "chapterType": 0,
+      "needInteractionTip": false,
+      "bookType": 0,
+      "viewingDuration": 0,
+      "performers": [
+        {
+          "performerId": "23883",
+          "performerName": "Tong Shu",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/3x8/23883/23883.jpg?time=1769756585338",
+          "videoCount": 21
+        }
+      ],
+      "spriteSnapshotUrl": "https://hwztakavideo.dramaboxdb.com/46/0x7/07x7/077x4/07740000024/700309764_1/700309764_shot.vtt",
+      "useMultiSubtitle": 0,
+      "trailerType": 0,
+      "inLibrary": false,
+      "chargeChapter": false
+    },
+    {
+      "bookId": "42000004032",
+      "bookName": "Akhir Pencarian Sang Pewaris (Sulih Suara)  ",
+      "bookCover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004032/42000004032.jpg?t=1768377971486",
+      "introduction": "Nova diculik seseorang di tengah badai saat dia berusaha membantu biaya pengobatan ibunya, Zoe, dengan berjualan keik pisang. Zoe yang merasa sangat kehilangan Nova tak henti-hentinya mencari Nova. 20 tahun kemudian Zoe menjadi sosok konglomerat berkuasa sementara Nova menjadi periset demi memenuhi janji membuatkan obat untuk ibunya. Takdir mempertemukan mereka dalam sebuah seremoni untuk mantan kekasih Nova yang mencuri penemuannya...",
+      "playCount": "751K",
+      "tags": [
+        "Anak Hilang",
+        "Salah Identitas",
+        "Serangan Balik",
+        "Keluarga",
+        "Wanita Karier",
+        "Ilmuwan"
+      ],
+      "tagV3s": [
+        {
+          "tagId": 1457,
+          "tagName": "Anak Hilang",
+          "tagEnName": "Lost Child"
+        },
+        {
+          "tagId": 1403,
+          "tagName": "Salah Identitas",
+          "tagEnName": "Mistaken Identity"
+        },
+        {
+          "tagId": 1399,
+          "tagName": "Serangan Balik",
+          "tagEnName": "Counterattack"
+        },
+        {
+          "tagId": 1408,
+          "tagName": "Keluarga",
+          "tagEnName": "Family Bonds"
+        },
+        {
+          "tagId": 1375,
+          "tagName": "Wanita Karier",
+          "tagEnName": "Career Woman"
+        },
+        {
+          "tagId": 10033,
+          "tagName": "Ilmuwan",
+          "tagEnName": "Researcher"
+        }
+      ],
+      "markNamesConnectKey": ", ",
+      "inLibraryCount": 41898,
+      "chapterId": "700257804",
+      "chapterImg": "https://hwztvideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.mp4.jpg",
+      "chapterIndex": 0,
+      "totalChapterNum": 55,
+      "nextChapterId": "700257805",
+      "videoPath": "https://hwztakavideo.dramaboxdb.com/daba2cbd3c1dc78c37139ea534bfca79/6980d810/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.720p.narrowv3.mp4",
+      "cdnList": [
+        {
+          "cdnDomain": "hwztakavideo.dramaboxdb.com",
+          "isDefault": 1,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/1ea7c6e82425779b8aeb875285629de0/6980d810/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.1080p.wz.g264.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/daba2cbd3c1dc78c37139ea534bfca79/6980d810/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.720p.narrowv3.mp4",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/5c7c44d4facbdda450665af79b92af96/6980d810/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.540p.narrowv2.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/b4ee939cf6e9f21fb689dfa6ab8e5edc/6980d810/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.360p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/f23b536aafc2d7034f4bd87df029f1a0/6980d810/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.144p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        },
+        {
+          "cdnDomain": "hwztvideo.dramaboxdb.com",
+          "isDefault": 0,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.1080p.wz.g264.mp4?Expires=1770048000&Signature=nYU7zQEe8O83REoehZzOZ9p0G0sgJqbx8RE8ntXY3zAyWGjs1Fimlxc0LpSwumj1Vgxc3KG1Qzm4yS37Dlre-xIaHHCHQBSIeVxC-degoVOula~e6~l~Avo2AzxENp3S3Yvh~KWK3t7xoU6XyRXFl9VnH3R04oRMxDfa5PMOJqBD2T2dyADOdnH10cbQmAti5PHRBN63jBUeUnBlMijn~lkpHYmK8s2lpLeeSw1naIqWGJ~QbSmEX1CaCf2xehtnDxp65BniQ5nTujbVjreXYIxB642JXhdK7D1kE8U4XWJ8iFMouBJ1M39pkvtsHqKLZirkMkUeXFtixAtrKApkdw__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.720p.narrowv3.mp4?Expires=1770048000&Signature=IL7-qRas3Z7JQlzQBLhQGWOcBiCXmbVWtw0qfbWqHYfxPoY-3M9-osjHi-gQzcwsOSlyz1ticwylzF0P4S4OHRqbrneLgRY2ceBK64WNY7~MHcKeLsrPs5Z4GZf58eJWDXv53U1Wv3vMZeYgg1LRZPm8S0p~i11PqUzeanjrjGqBrLfOMYjnb2~E9jZd3J4AlevZJI2BvnHxYoUTAM4WtUv-CU4gJ0dMuxqgDgWVwqhME2MbjdOKi7GGabVZFbFO9n-m~5VmAy5liq38JOgc~7rRz26amud-QDJxRkPehjIpJs-11YS6gF2u0C9JmZxpbb9thZxTX20nfvJoxJ3gog__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.540p.narrowv2.mp4?Expires=1770048000&Signature=MopLAvKp-nIyRwZaO2Cp9vsGGhseqPBs4Kvt842LlRmhlrxpJbgM2O9PGPUOfBBfIHU7lqAWEGXNpCm0w2o6Yrh3QGYFxmNyHvPxkLcsZcJ7vKuldw37JB9xEyq0ZB0ww0Ltx4U48ssBDfRfNAO9XX07Wpzu79FJI7YnBsLln9bfBbWsP4Dm1omanqu~FldepQUHTTSrzH78sLMTFkj7O5tJ3OUwJPQbqwFVMo9iH9DVkxi9AEsEpRq8Wzepp8BXXHLF5hOWTzWYJ2djRy4I3miTwtwRqHVOOAhvp8nKFkNjnb8yGZRun8q9G6IYQ8C5QmZFLF7Es2SYF-j1L86tYg__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.360p.mp4?Expires=1770048000&Signature=N6~wMkmDND-v4vFpsU0Qi~JQCLatGy~iD8zpx2xsOcIZUhIY0x1x9VpONinY9mEk3Jp-5ARX8l1Gg~sAPqAPzTGTmpgMrGn8y6NIFcphI19ninWOJl0sdZgySJOCquta4bv7tFwvMDe2ypG-wuWBDQP5v6mxrFHPh5684wTxsgmAntydstdIYKPd5MV-VvLLQjfLyss7WVQy5cu~KgAR6PKIfkBPpS-4Qjh5WVoZPKjmundA3sw4gZayFfEj6qHZtRgjdxGE7XM-oqFlUizRmsa0fMapC4B5SdgmlxEFbtE2DwKHhsEFD5Iey-tztuU3TBKgWfhbkZuj8rIqLxPikg__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804.144p.mp4?Expires=1770048000&Signature=YMDPP6WKex7qzZFeEyw7gp90MiJmFoCWRKCD8WgdWWqU2XxY8TgMfarCWSv~~Z7aLpSKHNN9yL~cwLFqsUUIKhfvzCfmwih0Y0X3yXjdIrcBc3lHP~WiNnDRLqLzfZhyAw-UW2t~le~YvBj2dBFbTFaudmpYZ9O9D6hgRwz5s~2GX-h3kOcly7o5rVXBidnZBMJ67XI7rVfTQEw4336x6vLrtCvXMPWO9KdqufHQM27bn8mIQYEGQz1o-x9KEtQzS~2Xf2jP1vnmh8AqMZ4on6db82LmaCTPDytGoK9xuTg2i2-0vPgd53wVGs00Vw~QmH84wOckbqW6GOgL6llB6A__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        }
+      ],
+      "bookSource": {
+        "sceneId": "ovs_vd_foru_rec",
+        "expId": "bigdata_rec",
+        "strategyId": "gzphlpl6",
+        "strategyName": "EXP_3",
+        "log_id": "55b8ee2aa2155b1d075db2579c8b71b9"
+      },
+      "isEntry": 0,
+      "isBottomBook": 0,
+      "bookHints": [
+        {
+          "id": 6,
+          "hintType": "热剧",
+          "hintName": "Terpopuler",
+          "bgColor": "#4C4C4C",
+          "transparency": 45,
+          "showOrder": 7,
+          "showTime": 15
+        }
+      ],
+      "corner": {
+        "cornerType": 1,
+        "name": "Terpopuler",
+        "color": "#F54E96"
+      },
+      "bookStatus": 1,
+      "algorithmRecomDot": "{\"log_id\":\"55b8ee2aa2155b1d075db2579c8b71b9\",\"ret_time\":\"1769965203951\",\"scene_id\":\"ovs_vd_foru_rec\",\"rec_id\":\"bigdata_rec\"}",
+      "shareVo": {
+        "description": "Aku sedang menonton Akhir Pencarian Sang Pewaris (Sulih Suara)   di DramaBox, sangat seru, ayo tonton bersama!",
+        "link": "https://sharet.dramabox.com/play?bid=42000004032&cid=__CID__&cindex=__CINDEX__&uid=e959933a0fd4e44587908cf2f4862d055c74fe20e30d867a7eb44003432e4e4d&lan=in&st=__ST__&layer=962&group=2486",
+        "shareId": "xWmFx6iOgK",
+        "dramaShareLink": "https://sharet.dramabox.com/gifted/film?uid=ef3a409c18856914689d011f91b9a74ce247e338f73298e486f74a78b6615f70&lan=in&st=__ST__&bid=42000004032&sid=xWmFx6iOgK",
+        "shareDescription": "Tonton gratis Akhir Pencarian Sang Pewaris (Sulih Suara)   — hadiah dariku untukmu! Klaim dan tonton di DramaBox dalam 72 jam!",
+        "shareApps": [
+          "3",
+          "5",
+          "1",
+          "6",
+          "4",
+          "98",
+          "99"
+        ]
+      },
+      "payChapterNum": 11,
+      "needTriggerWarnTip": false,
+      "chapterType": 0,
+      "needInteractionTip": false,
+      "bookType": 0,
+      "viewingDuration": 0,
+      "performers": [
+        {
+          "performerId": "12038",
+          "performerName": "Casey Schryer",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/8x3/12038/12038.jpg?time=1768378008425",
+          "videoCount": 39
+        },
+        {
+          "performerId": "12037",
+          "performerName": "Thresa Richardson",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/7x3/12037/12037.jpg?time=1768378009032",
+          "videoCount": 24
+        }
+      ],
+      "spriteSnapshotUrl": "https://hwztakavideo.dramaboxdb.com/40/2x3/23x0/230x4/23040000024/700257804_1/700257804_shot.vtt",
+      "useMultiSubtitle": 0,
+      "trailerType": 0,
+      "inLibrary": false,
+      "chargeChapter": false
+    },
+    {
+      "bookId": "42000005001",
+      "bookName": "Jodoh Kita Telah Berakhir",
+      "bookCover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005001/42000005001.jpg?t=1769509078748",
+      "introduction": "Yudi Kirana sangat mencintai Eni Taslim. Setelah disakiti cinta pertamanya, Mirza Winata, Eni hidup kacau dan impulsif menerima lamaran Yudi saat mendengar kabar pernikahan Mirza. Yudi mengorbankan mimpinya menjadi dokter demi Eni, namun Eni tetap dingin karena belum melupakan Mirza. Ketika Mirza kembali dari luar negeri, Yudi akhirnya menggugat cerai.",
+      "playCount": "6.6K",
+      "tags": [
+        "Mengejar Suami",
+        "Kesempatan Kedua",
+        "Kekasih Kontrak",
+        "Perselingkuhan",
+        "Penebusan",
+        "Modern"
+      ],
+      "tagV3s": [
+        {
+          "tagId": 1681,
+          "tagName": "Mengejar Suami",
+          "tagEnName": "Winning Him Back"
+        },
+        {
+          "tagId": 1422,
+          "tagName": "Kesempatan Kedua",
+          "tagEnName": "Second Chance"
+        },
+        {
+          "tagId": 1669,
+          "tagName": "Kekasih Kontrak",
+          "tagEnName": "Contract Lover"
+        },
+        {
+          "tagId": 1341,
+          "tagName": "Perselingkuhan",
+          "tagEnName": "Betrayal"
+        },
+        {
+          "tagId": 1478,
+          "tagName": "Penebusan",
+          "tagEnName": "Redemption"
+        },
+        {
+          "tagId": 1318,
+          "tagName": "Modern",
+          "tagEnName": "Modern"
+        }
+      ],
+      "markNamesConnectKey": ", ",
+      "inLibraryCount": 3224,
+      "chapterId": "700322287",
+      "chapterImg": "https://hwztvideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.mp4.jpg",
+      "chapterIndex": 0,
+      "totalChapterNum": 62,
+      "nextChapterId": "700322288",
+      "videoPath": "https://hwztakavideo.dramaboxdb.com/f92706d87c3b99fd99552421fd4848df/6980d810/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.720p.narrowv3.mp4",
+      "cdnList": [
+        {
+          "cdnDomain": "hwztakavideo.dramaboxdb.com",
+          "isDefault": 1,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/d2046a787224fd88fb788e94a09dfe0b/6980d810/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.1080p.wz.g264.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/f92706d87c3b99fd99552421fd4848df/6980d810/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.720p.narrowv3.mp4",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/5884d17201eb5c8a6ec90284e2c55995/6980d810/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.540p.narrowv2.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/aa3726d895854c192eb0913c14ee744e/6980d810/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.360p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/b2049735b1f3ef2dc45174b0f4564d66/6980d810/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.144p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        },
+        {
+          "cdnDomain": "hwztvideo.dramaboxdb.com",
+          "isDefault": 0,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.1080p.wz.g264.mp4?Expires=1770048000&Signature=qB1C4mHL-UCGmWUQfhzxVdzK5NhJiHNIjwalfvSlU1RV7MUZ1DBc5OmDbAUWEni-ucMeM2nLz~964WgPJfq1QlJqfQhkONWYZ1ZBul-k6LLpmOY6vRKcirfHslGNINT0C816XSY2pSXZxfXMZXBPh9zRF3x45fsuobTBn6FumqzHwg9bXvOAYtb4D-74L-AYyjUU5Tr-SLZKigKLa4KUqektwwhoemrW-m0eg5heNYd3SqXynEYSNfb6yYrBpM~BvepkV~5RsuqxflRrSMiU~FNASEQvkphZZrK1c5dqBHk4TCL5AhTjqqSEZNWAtvJzxOG8EdkUvAo8fDe9XCX3Ow__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.720p.narrowv3.mp4?Expires=1770048000&Signature=QwFzZgjirUKuwvyT7zY9UmY~1Y0HojBbEV7nJXWwQvlDPIuanZ8REkZKDiIcn0ccEIi~QBWzMtaD~At4ASiMeMD5vj6EyP8ik0uyuJrSDR6IFzomvp64c2cFkmbMcaeeswwUPLPmGG~xZwysZEbcJdih~dQMLSq9hmKyn5TdnpzXrRdI~fN2P8S~MPfaR2IaVD5sgOEEJZnjHGzNZzzGBy~cYaQjg1zKsTY49tzyuYxFJACMm2zBLVGwiqpKXFoBloneIzmYkp8iJ4np1juUOrjSd419XgYWa05yyK1g1nV~HfNqJuAMu0Y61dDZZukInAq7uqvJF0ytVmbpO2H5mA__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.540p.narrowv2.mp4?Expires=1770048000&Signature=ggG-3BP8MmqZYoqZX76FfNlGCxjPpWxcHmhGPCQoo8TDCquL77iRl-2UseuId~rLPttPiqoCKwUn8BAuhFoVyIk7hVQyZjJzRaEjyY8DaGlgF4RrlirgQ7RROe2sY5vdbcx7~MYObybCCGkOIw57qoXOWv889vQBGrN5Tbwe0eoJT77jGFJS3vbvkf5Q1WrxRuVuFeauF6kLTxyyyQyiGTRy8oNS9TCXw-zmmxaVGgat5i8mi711q8h4aEhS0LuBzj8S1avhR~sxfzUmm23DjcPSBhuwsluioviv5xhOdKLnyXSsJWEzQdX4hXZaEKU7S2eS6XVZ2Htqaqp4~BPmdA__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.360p.mp4?Expires=1770048000&Signature=mIzyTwHGoAGfFGRtY4gQV3kyC4cWTZsZzfAGXkZ8mh9JFsuW1pw9s8e6OGCTdIJPw1sTdRQ8mYGyX-3vuOMStv8j0i10a1C0cHiaYTZo-RPROtEhbzFFtEyM28KY1BjpR5PeyyGU9qV6gPYkvElM0CZdTIt4vJ2ebGg5dzOlfrTwee0gMVDAu214iYVLzCpaq5u-VlZDsfTXIlhA25QqBvFW3cyPKxyafA9LMy20lQOOFeiNdczwFvmNiYAYJyzVZ8fujORj8Fv6xpABgmkG5K1sTPBHSZ5RaG52of-cjggtqHF4P8oB9FE4UrcRiNwZPU8lPkQVtDWCgcBPCmwFWQ__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287.144p.mp4?Expires=1770048000&Signature=p-BZvwCHx8zQnFq25XZmmos39z1PtBVd5Lu~Xi7AgF1F6ntHQfUCKRX8h5L5NLFtwKJPI7HLahnbTLYCmkTm5t-oiOQvAZGTw1ursOM9rwhNrrX-34xT1M38WfrOjC6k9l-E7YvzQL7M2hUI~M6aqSSUrh5R9-KeL3V3ojHV5qwSGE4D4CNE8UeuRoLsECnTL-1WIn2Iyngj9YQr7sNl0pPzH~4~eS4MGEyZ7jhJIUNivrBKGBqOBGZZnDrdMW0~OoF~GLNvBbpE~ryF746aTIaff5LEQWRo0p4im18WyItaOXxhy-yrg0TGhblFJy2dBDAdQQ2j2Otav6k43ukIww__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        }
+      ],
+      "bookSource": {
+        "sceneId": "ovs_vd_foru_rec",
+        "expId": "bigdata_rec",
+        "strategyId": "gzphlpl6",
+        "strategyName": "EXP_3",
+        "log_id": "55b8ee2aa2155b1d075db2579c8b71b9"
+      },
+      "isEntry": 0,
+      "isBottomBook": 0,
+      "bookHints": [
+        {
+          "id": 2,
+          "hintType": "新剧",
+          "hintName": "Terbaru",
+          "bgColor": "#4C4C4C",
+          "transparency": 45,
+          "showOrder": 3,
+          "showTime": 15
+        }
+      ],
+      "corner": {
+        "cornerType": 1,
+        "name": "Terbaru",
+        "color": "#8773DF"
+      },
+      "bookStatus": 1,
+      "algorithmRecomDot": "{\"log_id\":\"55b8ee2aa2155b1d075db2579c8b71b9\",\"ret_time\":\"1769965203953\",\"scene_id\":\"ovs_vd_foru_rec\",\"rec_id\":\"bigdata_rec\"}",
+      "shareVo": {
+        "description": "Aku sedang menonton Jodoh Kita Telah Berakhir di DramaBox, sangat seru, ayo tonton bersama!",
+        "link": "https://sharet.dramabox.com/play?bid=42000005001&cid=__CID__&cindex=__CINDEX__&uid=e959933a0fd4e44587908cf2f4862d055c74fe20e30d867a7eb44003432e4e4d&lan=in&st=__ST__&layer=962&group=2486",
+        "shareId": "xWmFx6iOgL",
+        "dramaShareLink": "https://sharet.dramabox.com/gifted/film?uid=ef3a409c18856914689d011f91b9a74cd89416d09339ecc65d47cb0b8fe73e6b&lan=in&st=__ST__&bid=42000005001&sid=xWmFx6iOgL",
+        "shareDescription": "Tonton gratis Jodoh Kita Telah Berakhir — hadiah dariku untukmu! Klaim dan tonton di DramaBox dalam 72 jam!",
+        "shareApps": [
+          "3",
+          "5",
+          "1",
+          "6",
+          "4",
+          "98",
+          "99"
+        ]
+      },
+      "payChapterNum": 12,
+      "needTriggerWarnTip": false,
+      "chapterType": 0,
+      "needInteractionTip": false,
+      "bookType": 0,
+      "viewingDuration": 0,
+      "performers": [
+        {
+          "performerId": "29339",
+          "performerName": "Kim Kyu Seon",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/9x3/29339/29339.jpg?time=1769509117853",
+          "videoCount": 4
+        },
+        {
+          "performerId": "29146",
+          "performerName": "Lee Sang-yeop",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/6x4/29146/29146.jpg?time=1769509117678",
+          "videoCount": 17
+        }
+      ],
+      "spriteSnapshotUrl": "https://hwztakavideo.dramaboxdb.com/78/1x0/10x0/100x5/10050000024/700322287_1/700322287_shot.vtt",
+      "useMultiSubtitle": 0,
+      "trailerType": 0,
+      "inLibrary": false,
+      "chargeChapter": false
+    },
+    {
+      "bookId": "42000004347",
+      "bookName": "Istriku Tiga, Takdirku Gila S2",
+      "bookCover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004347/42000004347.jpg?t=1768802596958",
+      "introduction": "Arsa Wira, seorang pria modern, melakukan perjalanan lintas waktu ke masa kuno dan memperoleh sebuah sistem poin afeksi. Dia menikahi tiga istri yang cantik jelita dan menjadi orang yang sangat kaya. Masalah mulai terjadi ketika tiba-tiba saja istri keduanya diculik.",
+      "playCount": "3.6M",
+      "tags": [
+        "Perjalanan Waktu",
+        "Sistem",
+        "Tokoh Legendaris",
+        "Kekuatan Khusus",
+        "Pria Dominan"
+      ],
+      "tagV3s": [
+        {
+          "tagId": 1344,
+          "tagName": "Perjalanan Waktu",
+          "tagEnName": "Time Travel"
+        },
+        {
+          "tagId": 1346,
+          "tagName": "Sistem",
+          "tagEnName": "Gamified World"
+        },
+        {
+          "tagId": 1332,
+          "tagName": "Tokoh Legendaris",
+          "tagEnName": "Divine Tycoon"
+        },
+        {
+          "tagId": 1334,
+          "tagName": "Kekuatan Khusus",
+          "tagEnName": "The Chosen One"
+        },
+        {
+          "tagId": 1323,
+          "tagName": "Pria Dominan",
+          "tagEnName": "Powerful Male Lead"
+        }
+      ],
+      "markNamesConnectKey": ", ",
+      "inLibraryCount": 56709,
+      "chapterId": "700298461",
+      "chapterImg": "https://hwztvideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.mp4.jpg",
+      "chapterIndex": 0,
+      "totalChapterNum": 70,
+      "nextChapterId": "700298462",
+      "videoPath": "https://hwztakavideo.dramaboxdb.com/a212ed44c05bc8e32cde013097389a2a/6980d810/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.720p.narrowv3.mp4",
+      "cdnList": [
+        {
+          "cdnDomain": "hwztakavideo.dramaboxdb.com",
+          "isDefault": 1,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/e7f6138743c2ee030213194b8945747b/6980d810/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.1080p.wz.g264.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/a212ed44c05bc8e32cde013097389a2a/6980d810/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.720p.narrowv3.mp4",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/a68230645134307f533da2345c43cfb7/6980d810/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.540p.narrowv2.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/1245307efb350cdda8a09b7c94aefc42/6980d810/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.360p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/f9157c5d1c5e49ff41f18a258c79e563/6980d810/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.144p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        },
+        {
+          "cdnDomain": "hwztvideo.dramaboxdb.com",
+          "isDefault": 0,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.1080p.wz.g264.mp4?Expires=1770048000&Signature=z00BzxqJCo~9UPcwMx6RVBtaoUHsUarQmeIQu512Rdv-n3SR-NNuFCPKOOFyyhYvrB50gt185qDCCWFSgCS1xv2-jRbJNa6YP8vdnjmOeJQFv4e3jL61RZ~b2~YSO9ELb7uov2~mFWTdQS1eTOct1W07j37tABb7mUzVeE9p3dmOkWIeJ916srH5ikn0ZmlhFcXDllem5ITi2wb98C2lhPnto7nVOQfIFFdXl6s6E~YRAoJAoS-KKm2yV4nR7BihXWS2PvTwrwzCNiajfs9rtnjURDxe6BzORLqYPl67Sw3tjiE6BUooDgPnOzzbbR4CqVRMPYAZ4sx75vJLsg4-2A__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.720p.narrowv3.mp4?Expires=1770048000&Signature=tA0SzZPsBGu90UPJtdPQ~onPTSKXeBtLb3qB7eo5H5bg4YQM5PxI2rL-c1iJCMKFgOqF7ffTrPYxCx~ViB7-9XuW08aXRoN0FDKVeeIi6xqRyX4gMzEdju2TrSkqSk5nLvZdyQTlQO-eWP228fvfQzignTtncobzSe1f8TT~zog2i33xcqg4a8CQRnZ3SOBpIlw~UAMLcvlTtjXv8GShaLzMEusbrSESERCBUnK0G45iHvIVcKJjP3-XfGS~pjansC8kOHCYSqhnDODR3Bvw1Kkb8lrQG0gK4CNoAA824cCUTzChitxYB3-AzQ5u1V8CkcdFTdas92xbihKcNGkPNw__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.540p.narrowv2.mp4?Expires=1770048000&Signature=uMIC3cgjTZJRPvnSH6D6t0iOKatlJ6k-cwnqwC~Yc-reP3aNvqk8lG-UW673vqlDReCAnlNQARQwCou6XfgTrXzq-OmyDbmy5UMXKBw1baUt3s0QwOyu2j7HOeor0xDdUtwEOTkWUOPX38pB4Hq-vh6ZZaULDoClL3lmD4hU-wbKKEl6edv3gyJc5Pn0l0sgu6EklWtapFwR8lKQ6sQYkaTSMt0E8iEfFwIjfR1MsvMElOSAoNOsm-9Vpb6w8oX3RPxOLz5dNI5VqOyK5AM08Tz~kJwrgOAe5z9k6FaiGS724~CF4zNcgOKeTqa6WWimPmsrq-EgXFVe3sG2kwPrVQ__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.360p.mp4?Expires=1770048000&Signature=LS8jnyoA~WnarjqC4EZNpy8i8~QpgCFyYApqsIBJXYyL90laKrkzd9L5jAji1KjcTg1WhX~iKv3A~flJ50szWHcgrYuA-0AArVz1-tV2GfHs3V~4u4VTa0a7yohGT6i8zfkluFecyx~-R~wW21IW5Ub3GlY~AMTA9-bnvbQgfUkBqXDA9yaP~J4IAfSFslpq~CDTo7u~rK1bpkavP61g9tI1gzl3nCIPM6jCnl2jwH6kPsFpl9j3ZfoxbKglqv3Z-Y4K9GLJa7sA7~wiRrGT5aQ6D0Bwo5QOjD5MMEMbqEODtiI8q2iyw~-eM0eVzxFhg-xLzeTzjB1PKQsvpeH0Ug__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461.144p.mp4?Expires=1770048000&Signature=iqjy5Uu2yO5v0C~fL3mOp-u6n5iFHcuK5A2oVAuT-I9JZ5E3btldOGr2aAbb7crxJaqWAlc5r8qjQ8DrTHj3yf9bXUhR7JNm~awuZp5SrkjQN2fY~98k1sZ2sqeSgflFSYBa4LysXAtjajmg15XGGkb5Y3GyvOflWfwsfQk4RbR1dNkMsWZPVBM74opAvjtB9swQmtw~u2YdenRpmk0mRnRtOYcuTI6m0a4tGb-oYJA-fOW0FbfFR66vqhScdKspvF-aL1BfAmdA5wvA~rhrQfYAdqSBpTPPJ-Teognki7PLcZliOrxPDSZl9KDfpcSwkgMGyFEA5V-LQ4-pQ92aWw__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        }
+      ],
+      "bookSource": {
+        "sceneId": "ovs_vd_foru_rec",
+        "expId": "bigdata_rec",
+        "strategyId": "gzphlpl6",
+        "strategyName": "EXP_3",
+        "log_id": "55b8ee2aa2155b1d075db2579c8b71b9"
+      },
+      "isEntry": 0,
+      "isBottomBook": 0,
+      "bookHints": [
+        {
+          "id": 2,
+          "hintType": "新剧",
+          "hintName": "Terbaru",
+          "bgColor": "#4C4C4C",
+          "transparency": 45,
+          "showOrder": 3,
+          "showTime": 15
+        }
+      ],
+      "corner": {
+        "cornerType": 1,
+        "name": "Terbaru",
+        "color": "#8773DF"
+      },
+      "bookStatus": 1,
+      "algorithmRecomDot": "{\"log_id\":\"55b8ee2aa2155b1d075db2579c8b71b9\",\"ret_time\":\"1769965203956\",\"scene_id\":\"ovs_vd_foru_rec\",\"rec_id\":\"bigdata_rec\"}",
+      "shareVo": {
+        "description": "Aku sedang menonton Istriku Tiga, Takdirku Gila S2 di DramaBox, sangat seru, ayo tonton bersama!",
+        "link": "https://sharet.dramabox.com/play?bid=42000004347&cid=__CID__&cindex=__CINDEX__&uid=e959933a0fd4e44587908cf2f4862d055c74fe20e30d867a7eb44003432e4e4d&lan=in&st=__ST__&layer=962&group=2486",
+        "shareId": "xWmFx6zzoO",
+        "dramaShareLink": "https://sharet.dramabox.com/gifted/film?uid=ef3a409c18856914689d011f91b9a74cf798600b986282087d50f409ae9cccb3&lan=in&st=__ST__&bid=42000004347&sid=xWmFx6zzoO",
+        "shareDescription": "Tonton gratis Istriku Tiga, Takdirku Gila S2 — hadiah dariku untukmu! Klaim dan tonton di DramaBox dalam 72 jam!",
+        "shareApps": [
+          "3",
+          "5",
+          "1",
+          "6",
+          "4",
+          "98",
+          "99"
+        ]
+      },
+      "payChapterNum": 16,
+      "needTriggerWarnTip": false,
+      "chapterType": 0,
+      "needInteractionTip": false,
+      "bookType": 0,
+      "viewingDuration": 0,
+      "spriteSnapshotUrl": "https://hwztakavideo.dramaboxdb.com/16/7x4/74x3/743x4/74340000024/700298461_2/700298461_shot.vtt",
+      "useMultiSubtitle": 0,
+      "trailerType": 0,
+      "inLibrary": false,
+      "chargeChapter": false
+    },
+    {
+      "bookId": "41000121122",
+      "bookName": "Dari Malam Itu Hingga Selamanya",
+      "bookCover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000121122/41000121122.jpg?t=1765787601344",
+      "introduction": "Seorang mahasiswi miskin bernama Viona, yang hidupnya serba kekurangan, bertekad untuk mendapatkan uang demi biaya kuliahnya. Ia menerima kesepakatan yang tak masuk akal: menghabiskan satu malam bersama Elvan, satu-satunya pewaris Grup Santosa. Meskipun Elvan adalah pria yang dikutuk dengan kemandulan, dokter justru memberinya kabar gembira bahwa dia mengandung anak kembar. Sejak saat itu, hidup Viona berubah total...",
+      "playCount": "30.7M",
+      "tags": [
+        "Cinta Semalam",
+        "Kehamilan",
+        "Putri Kaya",
+        "Kekasih Kontrak",
+        "Modern",
+        "Romansa"
+      ],
+      "tagV3s": [
+        {
+          "tagId": 1385,
+          "tagName": "Cinta Semalam",
+          "tagEnName": "One Night Stand"
+        },
+        {
+          "tagId": 1641,
+          "tagName": "Kehamilan",
+          "tagEnName": "Pregnancy"
+        },
+        {
+          "tagId": 1450,
+          "tagName": "Putri Kaya",
+          "tagEnName": "Heiress"
+        },
+        {
+          "tagId": 1621,
+          "tagName": "Kekasih Kontrak",
+          "tagEnName": "Contract Lover"
+        },
+        {
+          "tagId": 1352,
+          "tagName": "Modern",
+          "tagEnName": "Modern"
+        },
+        {
+          "tagId": 1357,
+          "tagName": "Romansa",
+          "tagEnName": "Romance"
+        }
+      ],
+      "markNamesConnectKey": ", ",
+      "inLibraryCount": 1050171,
+      "chapterId": "600273363",
+      "chapterImg": "https://hwztvideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.mp4.jpg",
+      "chapterIndex": 0,
+      "totalChapterNum": 57,
+      "nextChapterId": "600273364",
+      "videoPath": "https://hwztakavideo.dramaboxdb.com/7eb323a859e3c10328998e6b785741b6/6980d810/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.720p.narrowv3.mp4",
+      "cdnList": [
+        {
+          "cdnDomain": "hwztakavideo.dramaboxdb.com",
+          "isDefault": 1,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/73a2b81dd6521f375bec8e7e45a3a58b/6980d810/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.1080p.wz.g264.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/7eb323a859e3c10328998e6b785741b6/6980d810/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.720p.narrowv3.mp4",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/5f87a1cc44ef0af59b4fd8109bd18f6a/6980d810/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.540p.narrowv2.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/3754160eb17faa094d822156abc880d9/6980d810/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.360p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztakavideo.dramaboxdb.com/e8a07c8f80160e0d4f011294ee3a1d77/6980d810/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.144p.mp4",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        },
+        {
+          "cdnDomain": "hwztvideo.dramaboxdb.com",
+          "isDefault": 0,
+          "videoPathList": [
+            {
+              "quality": 1080,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.1080p.wz.g264.mp4?Expires=1770048000&Signature=qL1csQ1lAXhq-cqMMQWcF9vz-zRSAfgYz3PDR04E3Phb3BRWDVqnB9EVU0mfOQ9JkqEH8ViVOPhANDpaRfIDeyV7xN8KGQoAnBwxfeKq3Cvc7NlH~q-2RFsKlc8~TMVT0fHYCmasUWCH4W6OXUOIRVNHDbTbktIRl5GEqUhzsXuWeGzDNUzXY9fYJsBgjehnH-ek-BgB1J9aZ2RowNbkmOWaBQk6ux3upF2tbID95PjgvtXUXRLY6zqzDsXhRv3jlLmmAGyF0ik6lT33zUfNoj1-2s0FXbBdHrFigSQLmwjfcMAEIq2XRMxEWapqk5GxqnKB66oUsr9tjhLoR-ho4Q__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 1
+            },
+            {
+              "quality": 720,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.720p.narrowv3.mp4?Expires=1770048000&Signature=nkvQPoqJDTk-20z3~yO3ljKRd4wt-vxTcJxZgTzqQ3RnSH4vxyCGMgndm465fErmHh~OxcwnvBijYnB7Q9mrzTQzHzdl235WcLxlyD9eX9jxhkVH4hcbq3dRqqjBoWaR-7SyGpi48tSxHPThyiPuCp83RdxKLiZR57AofPNarDosJBP1c0jjqUb4uHHjnVRSQxWVbh-pX9~XxYtiVmtRYkjhbcpjOKsy1XqcBvgH2hAEf-rpGY1SRatKAJAHs9IiKznLLfUJGjND49dSs8Wf2mIV6tWjPJmPDoFwTaMp2gvqD1CUIbRWvjW4v4czl51P2VfTXD2j04jLnkfeojVFNQ__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 1,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 540,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.540p.narrowv2.mp4?Expires=1770048000&Signature=q6BhTjvpfvy-Jhtpkr-ko3iQOkRfd9BuhiYBDJ6n0oFTYDcKoQkS6Wpv9LYvA8r~51U6Jy8-hcpsS7GRwVdBtAIZQmqixLzo1~dpfLk8YlGaOXjgtKqnI2hooJm3Y0xaUHIA3sqRig5IWZpD7~t3HDPbpokK53REMldrDtOxw6j3LcyA-bm3O2yRNV4u6-6Ke6h3irizFVxYP93xrAq8Ypm6L~Zu68401~1u8l5TqocrXW1etFaDzlLb7Y67mTRHZjDoQxV2YT54PnS1sFM7eN-YXlIuU5igNUQAgwovcuR~WVIvzzCzlmPsHZzd2KTD9HdiK6ZbpT1VzBv98Xk00A__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 360,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.360p.mp4?Expires=1770048000&Signature=EYgsD5QhXc0NBFCo8Up5~4IkclM122wQbJu146RtV~o2FBj28r8VgN18doVep-EP7ilr5TYbWMISz8HvP8xIfqUvLAGk27mcBMOc9Ha~5UiWYLhDIA97~COz99Dzr5EZNW25PVnRECgkdyh0fcpqIY0nRIlA0v9ftwfFI5aeog7En1UZVyjnuF0pbaHDJ0p9s~JASkYuoG5GACLzSfPRSS8kgfq5~YMvfGAlmkcZRFIE5D6LDuffDnqQkU1BMaHdxYq8InNXm4oTOz~EL-LcfWUwTeixcHL5Ipwir5-yNjDXricG2tVJbz-TLXh1MVonOrKzV3llnIhBhrvOcLSnJw__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            },
+            {
+              "quality": 144,
+              "videoPath": "https://hwztvideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363.144p.mp4?Expires=1770048000&Signature=KGLauM92ybO320vyNZmoUKdmn~DvOs8QM3omaLNK18kE3kLlW-0E4idASJ2Rl3crz0Jn4VVRShtCqS9mdpfy5PwgAtAHM0VDUMbPw6YKeg4HprDw4NjZM0ygszW51vPey3HkcCKRaWbEQHYLPiYOuWPhQKKjfKsZW8myQvjhbDzn5CtPyV0PNMjYZT~SCvqnPo-wCxGKrH-M1WZ2INTZCIov7PCMjmgYSJzxgzEBCgdWfszGcx6nXlBiqsXOp7hPJjq9ybtxZOwbZaCbM1M6jeV0hubMuPNtLfGKQZV3zWP1Ch5VAFX-Wt1AMTO~kRZ21~jOpfPtvtbKWjeRw41ncg__&Key-Pair-Id=K3HA2TLE2QH99V",
+              "isDefault": 0,
+              "isEntry": 0,
+              "isVipEquity": 0
+            }
+          ]
+        }
+      ],
+      "bookSource": {
+        "sceneId": "ovs_vd_foru_rec",
+        "expId": "bigdata_rec",
+        "strategyId": "gzphlpl6",
+        "strategyName": "EXP_3",
+        "log_id": "55b8ee2aa2155b1d075db2579c8b71b9"
+      },
+      "isEntry": 0,
+      "isBottomBook": 0,
+      "bookHints": [
+        {
+          "id": 7,
+          "hintType": "独家剧",
+          "hintName": "Eksklusif",
+          "bgColor": "#4C4C4C",
+          "transparency": 45,
+          "showOrder": 6,
+          "showTime": 15
+        }
+      ],
+      "bookStatus": 1,
+      "algorithmRecomDot": "{\"log_id\":\"55b8ee2aa2155b1d075db2579c8b71b9\",\"ret_time\":\"1769965203958\",\"scene_id\":\"ovs_vd_foru_rec\",\"rec_id\":\"bigdata_rec\"}",
+      "shareVo": {
+        "description": "Aku sedang menonton Dari Malam Itu Hingga Selamanya di DramaBox, sangat seru, ayo tonton bersama!",
+        "link": "https://sharet.dramabox.com/play?bid=41000121122&cid=__CID__&cindex=__CINDEX__&uid=e959933a0fd4e44587908cf2f4862d055c74fe20e30d867a7eb44003432e4e4d&lan=in&st=__ST__&layer=962&group=2486",
+        "shareId": "xWmFx6zzoP",
+        "dramaShareLink": "https://sharet.dramabox.com/gifted/film?uid=ef3a409c18856914689d011f91b9a74c6b9e99b04e259b4674c24181f70b7dd9&lan=in&st=__ST__&bid=41000121122&sid=xWmFx6zzoP",
+        "shareDescription": "Tonton gratis Dari Malam Itu Hingga Selamanya — hadiah dariku untukmu! Klaim dan tonton di DramaBox dalam 72 jam!",
+        "shareApps": [
+          "3",
+          "5",
+          "1",
+          "6",
+          "4",
+          "98",
+          "99"
+        ]
+      },
+      "payChapterNum": 5,
+      "needTriggerWarnTip": false,
+      "chapterType": 0,
+      "needInteractionTip": false,
+      "bookType": 0,
+      "viewingDuration": 0,
+      "performers": [
+        {
+          "performerId": "29152",
+          "performerName": "Jo Yeon Ji ",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/2x5/29152/29152.jpg?time=1769657875119",
+          "videoCount": 17
+        },
+        {
+          "performerId": "29151",
+          "performerName": "Yoon Ha-bin",
+          "performerAvatar": "https://hwztchapter.dramaboxdb.com/data/cppartner/1x5/29151/29151.jpg?time=1769657874712",
+          "videoCount": 12
+        }
+      ],
+      "spriteSnapshotUrl": "https://hwztakavideo.dramaboxdb.com/36/2x2/22x1/221x1/22112100014/600273363_1/600273363_shot.vtt",
+      "useMultiSubtitle": 0,
+      "trailerType": 0,
+      "inLibrary": false,
+      "chargeChapter": false
+    }
+  ]
+}
